@@ -2,13 +2,13 @@
   "name": "ng-helper-airbrake",
   "version": "0.1.0",
   "homepage":"https://github.com/ngHelper/ngHelperAirbrake",
-  "authors":["dei79 <dirk.eisenberg@gmail.com>"],
+  "authors":["yuyaohshimo <yohshimo@coiney.com>"],
   "description":"Integrate AirBrake into a angular.js application",
   "main": ["./airbrake.min.js", "./ngHelperAirbrake.js", "./ngHelperAirbrakeExceptionHandler.js"],
   "ignore":["**/.*","node_modules","bower_components","test","tests"],
   "keywords":["angular","angularjs","airbrake","service","factory", "exceptions"],
   "license":"MIT",
   "dependencies": {
-    "jquery": "~2.1.1"
+    "jquery": "*"
   }
 }
